@@ -68,8 +68,8 @@ The dashboard includes the following key metrics:
 * Drill-down analysis across employee categories.
 * KPI cards and charts for quick business insights.
 
-##![Overview Page](HR%20Overview%20Page.PNG)
-##![Summary Page](HR%20Summary%20Page.PNG)
+![Overview Page](HR%20Overview%20Page.PNG)
+![Summary Page](HR%20Summary%20Page.PNG)
 
 ## 🔄 Project Workflow
 
